@@ -1,0 +1,25 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout master
+      uses: actions/checkout@v2
+      with:
+        submodules: true
+
+    - name: Hugo Deploy GitHub Pages
+      uses: benmatselby/hugo-deploy-gh-pages@master
+      env:
+        TARGET_REPO: CybersecurityUnitn/CybersecurityUnitn.github.io
+        TARGET_BRANCH: gh-pages
+        HUGO_EXTENDED: true
+        TOKEN: ${{ secrets.TOKEN }}
+        GO_VERSION: 1.17
