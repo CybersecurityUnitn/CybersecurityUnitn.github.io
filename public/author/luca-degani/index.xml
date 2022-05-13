@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luca Degani | UniTN Cybersecurity</title>
+    <link>https://CybersecurityUnitn.github.io/author/luca-degani/</link>
+      <atom:link href="https://CybersecurityUnitn.github.io/author/luca-degani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luca Degani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CybersecurityUnitn.github.io/author/luca-degani/avatar_hu4b5e94818d45aea84047d75282836011_89654_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Luca Degani</title>
+      <link>https://CybersecurityUnitn.github.io/author/luca-degani/</link>
+    </image>
+    
+    <item>
+      <title>Discovery and Identification of Memory Corruption Vulnerabilities on Bare-metal Embedded Devices</title>
+      <link>https://CybersecurityUnitn.github.io/publication/9707846/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/9707846/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Adversarial Networks for Subdomain Enumeration</title>
+      <link>https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

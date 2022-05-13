@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Roveri | UniTN Cybersecurity</title>
+    <link>https://CybersecurityUnitn.github.io/author/marco-roveri/</link>
+      <atom:link href="https://CybersecurityUnitn.github.io/author/marco-roveri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marco Roveri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CybersecurityUnitn.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Marco Roveri</title>
+      <link>https://CybersecurityUnitn.github.io/author/marco-roveri/</link>
+    </image>
+    
+    <item>
+      <title>PISTIS: Trusted Computing Architecture for Low-end Embedded Systems</title>
+      <link>https://CybersecurityUnitn.github.io/publication/277124/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/277124/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery and Identification of Memory Corruption Vulnerabilities on Bare-metal Embedded Devices</title>
+      <link>https://CybersecurityUnitn.github.io/publication/9707846/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/9707846/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
