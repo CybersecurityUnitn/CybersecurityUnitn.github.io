@@ -29,8 +29,8 @@ content:
     longitude: '11.14988'
   directions: TODO TODO TODO
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'TODO 10:00 to 13:00'
+    - 'TODO 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments

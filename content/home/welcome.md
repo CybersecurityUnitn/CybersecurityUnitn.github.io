@@ -16,8 +16,7 @@ design:
   # Add custom styles
   css_style:
   css_class:
+
 ---
 
-<br>
-
-The **University of Trento Cybersecurity Research Group** is TODO TODO TODO TODO.
+We are a research group at the University of Trento, Italy.

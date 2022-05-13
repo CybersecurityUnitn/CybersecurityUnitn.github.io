@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: University of Trento Cybersecurity Research Group # Website name
+title: UniTN Cybersecurity # Website name
 baseURL: 'https://CybersecurityUnitn.github.io/' # Website URL
 
 ############################
