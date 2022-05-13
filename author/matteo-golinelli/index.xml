@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matteo Golinelli | UniTN Cybersecurity</title>
+    <link>https://CybersecurityUnitn.github.io/author/matteo-golinelli/</link>
+      <atom:link href="https://CybersecurityUnitn.github.io/author/matteo-golinelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matteo Golinelli</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CybersecurityUnitn.github.io/author/matteo-golinelli/avatar_hu0309028ee38bb1b83ce46d5a6f4f122b_20724_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Matteo Golinelli</title>
+      <link>https://CybersecurityUnitn.github.io/author/matteo-golinelli/</link>
+    </image>
+    
+    <item>
+      <title>Web Cache Deception Escalates!</title>
+      <link>https://CybersecurityUnitn.github.io/publication/277152/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/277152/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

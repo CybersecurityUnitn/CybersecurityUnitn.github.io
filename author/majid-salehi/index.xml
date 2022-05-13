@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Majid Salehi | UniTN Cybersecurity</title>
+    <link>https://CybersecurityUnitn.github.io/author/majid-salehi/</link>
+      <atom:link href="https://CybersecurityUnitn.github.io/author/majid-salehi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Majid Salehi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CybersecurityUnitn.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Majid Salehi</title>
+      <link>https://CybersecurityUnitn.github.io/author/majid-salehi/</link>
+    </image>
+    
+    <item>
+      <title>Discovery and Identification of Memory Corruption Vulnerabilities on Bare-metal Embedded Devices</title>
+      <link>https://CybersecurityUnitn.github.io/publication/9707846/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/9707846/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michele Grisafi | UniTN Cybersecurity</title>
+    <link>https://CybersecurityUnitn.github.io/author/michele-grisafi/</link>
+      <atom:link href="https://CybersecurityUnitn.github.io/author/michele-grisafi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michele Grisafi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CybersecurityUnitn.github.io/author/michele-grisafi/avatar_hu95c23b8af800065a8343ecd4b7d3022a_79709_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Michele Grisafi</title>
+      <link>https://CybersecurityUnitn.github.io/author/michele-grisafi/</link>
+    </image>
+    
+    <item>
+      <title>PISTIS: Trusted Computing Architecture for Low-end Embedded Systems</title>
+      <link>https://CybersecurityUnitn.github.io/publication/277124/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/277124/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
