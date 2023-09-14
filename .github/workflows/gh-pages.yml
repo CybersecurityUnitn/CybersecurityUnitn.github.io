@@ -21,7 +21,6 @@ jobs:
         TARGET_REPO: CybersecurityUnitn/CybersecurityUnitn.github.io
         TARGET_BRANCH: gh-pages
         HUGO_EXTENDED: true
-        # Set HUGO_PUBLISH_DIR to be /github/workspace/
-        HUGO_PUBLISH_DIR: .
+        HUGO_PUBLISH_DIR: /github/workspace/public
         TOKEN: ${{ secrets.TOKEN }}
         GO_VERSION: 1.17
