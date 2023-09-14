@@ -7,16 +7,27 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  University of Trento Cybersecurity  
-  Research Group
+  UniTN Cybersecurity Research Group
 # hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+
+cta:
+  label: Join our Discord
+  url: https://discord.gg/CybersecurityUnitn
+  icon_pack: fab
+  icon: discord
+
+cta_alt:
+  label: Our GitHub
+  url: https://github.com/CybersecurityUnitn/
+  icon_pack: fab
+  icon: github
+
 
 ---
 
-We are a research group at the University of Trento, Italy.
+We are a cybersecurity research group at the University of Trento, Italy. Our research interests include IoT security and web security.
+
+<br>

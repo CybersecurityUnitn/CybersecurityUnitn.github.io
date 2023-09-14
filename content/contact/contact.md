@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: 
+  phone: 
   address:
     street: Via Sommarive, 9
     city: Povo
@@ -27,31 +27,14 @@ content:
   coordinates:
     latitude: '46.06701'
     longitude: '11.14988'
-  directions: TODO TODO TODO
+  directions: 
   office_hours:
-    - 'TODO 10:00 to 13:00'
-    - 'TODO 09:00 to 10:00'
-  # appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
+    - ''
+    - ''
 
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  # form:
-  #   provider: netlify
-  #   formspree:
-  #     id:
-  #   netlify:
-  #     # Enable CAPTCHA challenge to reduce spam?
-  #     captcha: false
-
 design:
   columns: '1'
 ---
-
-Description TODO TODO TODO.

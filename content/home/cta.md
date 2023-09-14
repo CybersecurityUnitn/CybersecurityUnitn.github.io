@@ -3,9 +3,9 @@ title:
 subtitle:
 widget: blank
 headless: true
-weight: 30
+weight: 45
 design:
   columns: '1'
 ---
 
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+{{% cta cta_link="./people/" cta_text="Our Team →" %}}
