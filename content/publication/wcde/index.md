@@ -6,7 +6,7 @@ title: "Web Cache Deception Escalates!"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Seyed Ali Mirheidari
-- admin
+- Matteo Golinelli
 - Kaan Onarlioglu
 - Engin Kirda
 - Bruno Crispo
