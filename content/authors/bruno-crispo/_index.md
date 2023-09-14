@@ -35,4 +35,4 @@ highlight_name: true
 title: Bruno Crispo
 email: ""
 ---
-Bruno Crispo is a professor of TODO.
+Bruno Crispo is a professor at the University of Trento.
