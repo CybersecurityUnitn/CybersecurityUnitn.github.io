@@ -21,5 +21,6 @@ jobs:
         TARGET_REPO: CybersecurityUnitn/CybersecurityUnitn.github.io
         TARGET_BRANCH: gh-pages
         HUGO_EXTENDED: true
+        TARGET_DIRECTORY: /github/workspace
         TOKEN: ${{ secrets.TOKEN }}
         GO_VERSION: 1.17
