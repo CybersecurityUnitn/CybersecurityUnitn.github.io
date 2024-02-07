@@ -37,6 +37,8 @@ education:
       year: 2021
 email: ""
 superuser: false
+user_groups:
+  - Junior Researcher
 ---
 C﻿arlo Ramponi is a junior researcher in System Security at the University of Trento.
 H﻿e is mainly interested in low level security, working on Embedded devices, IoT devices, Trusted Execution Environments and bare metal firmware security.
