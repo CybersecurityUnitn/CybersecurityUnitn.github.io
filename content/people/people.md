@@ -18,6 +18,7 @@ content:
   user_groups:
     - Professor
     - PhD Students
+    - Junior Researchers
     - Grad Students
     - Master Students
     - Alumni

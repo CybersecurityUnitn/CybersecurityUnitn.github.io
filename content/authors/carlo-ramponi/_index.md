@@ -17,12 +17,12 @@ social:
   - display:
       header: false
     link: https://www.linkedin.com/in/carlo-ramponi/
-    icon_pack: fas
+    icon_pack: fab
     icon: linkedin
   - display:
       header: false
     link: https://github.com/CarloRamponi/
-    icon_pack: fas
+    icon_pack: fab
     icon: github
 organizations:
   - name: University of Trento
@@ -38,7 +38,7 @@ education:
 email: ""
 superuser: false
 user_groups:
-  - Junior Researcher
+  - Junior Researchers
 ---
-C﻿arlo Ramponi is a junior researcher in System Security at the University of Trento.
-H﻿e is mainly interested in low level security, working on Embedded devices, IoT devices, Trusted Execution Environments and bare metal firmware security.
+Carlo Ramponi is a junior researcher in System Security at the University of Trento.
+He is mainly interested in low level security, working on Embedded devices, IoT devices, Trusted Execution Environments and bare metal firmware security.
