@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: false
-    link: mailto:carlo.ramponi@studenti.unitn.it
+    link: mailto:carlo.ramponi@unitn.it
     icon_pack: fas
     icon: envelope
   - display:
