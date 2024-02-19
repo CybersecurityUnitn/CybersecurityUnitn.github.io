@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UniTN Cybersecurity</title>
+    <link>https://CybersecurityUnitn.github.io/</link>
+      <atom:link href="https://CybersecurityUnitn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>UniTN Cybersecurity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Sep 2023 10:41:53 +0200</lastBuildDate>
+    <image>
+      <url>https://CybersecurityUnitn.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>UniTN Cybersecurity</title>
+      <link>https://CybersecurityUnitn.github.io/</link>
+    </image>
+    
+    <item>
+      <title>OAuth 2.0 Redirect URI Validation Falls Short Literally</title>
+      <link>https://CybersecurityUnitn.github.io/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</link>
+      <pubDate>Tue, 19 Sep 2023 10:41:53 +0200</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Nonce-nce of Web Security: An Investigation of CSP Nonces Reuse</title>
+      <link>https://CybersecurityUnitn.github.io/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</link>
+      <pubDate>Thu, 24 Aug 2023 11:58:46 +0200</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the CORS</title>
+      <link>https://CybersecurityUnitn.github.io/publication/mind-the-cors/</link>
+      <pubDate>Thu, 24 Aug 2023 11:49:29 +0200</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/mind-the-cors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Cache Deception Escalates!</title>
+      <link>https://CybersecurityUnitn.github.io/publication/wcde/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/wcde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PISTIS: Trusted Computing Architecture for Low-end Embedded Systems</title>
+      <link>https://CybersecurityUnitn.github.io/publication/277124/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/277124/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery and Identification of Memory Corruption Vulnerabilities on Bare-metal Embedded Devices</title>
+      <link>https://CybersecurityUnitn.github.io/publication/9707846/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/9707846/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Adversarial Networks for Subdomain Enumeration</title>
+      <link>https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://CybersecurityUnitn.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://CybersecurityUnitn.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://CybersecurityUnitn.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

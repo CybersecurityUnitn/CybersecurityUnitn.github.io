@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlo Ramponi | UniTN Cybersecurity</title>
+    <link>https://CybersecurityUnitn.github.io/author/carlo-ramponi/</link>
+      <atom:link href="https://CybersecurityUnitn.github.io/author/carlo-ramponi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlo Ramponi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://CybersecurityUnitn.github.io/author/carlo-ramponi/avatar_hu64672325e0cd1e55702d5784ae17376f_1548687_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Carlo Ramponi</title>
+      <link>https://CybersecurityUnitn.github.io/author/carlo-ramponi/</link>
+    </image>
+    
+  </channel>
+</rss>

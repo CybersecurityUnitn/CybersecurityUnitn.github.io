@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web caches | UniTN Cybersecurity</title>
+    <link>https://CybersecurityUnitn.github.io/tag/web-caches/</link>
+      <atom:link href="https://CybersecurityUnitn.github.io/tag/web-caches/index.xml" rel="self" type="application/rss+xml" />
+    <description>web caches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2023 11:58:46 +0200</lastBuildDate>
+    <image>
+      <url>https://CybersecurityUnitn.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>web caches</title>
+      <link>https://CybersecurityUnitn.github.io/tag/web-caches/</link>
+    </image>
+    
+    <item>
+      <title>The Nonce-nce of Web Security: An Investigation of CSP Nonces Reuse</title>
+      <link>https://CybersecurityUnitn.github.io/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</link>
+      <pubDate>Thu, 24 Aug 2023 11:58:46 +0200</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Cache Deception Escalates!</title>
+      <link>https://CybersecurityUnitn.github.io/publication/wcde/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/wcde/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

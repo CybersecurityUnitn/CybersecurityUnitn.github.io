@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tommaso Innocenti | UniTN Cybersecurity</title>
+    <link>https://CybersecurityUnitn.github.io/author/tommaso-innocenti/</link>
+      <atom:link href="https://CybersecurityUnitn.github.io/author/tommaso-innocenti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tommaso Innocenti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Sep 2023 10:41:53 +0200</lastBuildDate>
+    <image>
+      <url>https://CybersecurityUnitn.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tommaso Innocenti</title>
+      <link>https://CybersecurityUnitn.github.io/author/tommaso-innocenti/</link>
+    </image>
+    
+    <item>
+      <title>OAuth 2.0 Redirect URI Validation Falls Short Literally</title>
+      <link>https://CybersecurityUnitn.github.io/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</link>
+      <pubDate>Tue, 19 Sep 2023 10:41:53 +0200</pubDate>
+      <guid>https://CybersecurityUnitn.github.io/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
