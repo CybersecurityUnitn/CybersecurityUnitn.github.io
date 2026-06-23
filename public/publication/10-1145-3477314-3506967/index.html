@@ -1,14 +1,16 @@
-<!DOCTYPE html><html lang="en-us" >
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: June 23, 2026 --><html lang="en-us" >
 
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   
   
   
-    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
   
 
   
@@ -23,6 +25,20 @@
 
 
 
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
   
 
 
@@ -40,46 +56,20 @@
 
   
   
-  
-  
-  
-    
-    
-    
-  
-  
-
-  <meta name="author" content="Bruno Crispo" />
-
-  
-  
-  
-    
-  
-  <meta name="description" content="Subdomain enumeration is a fundamental step of many security processes (i.e., vulnerability discovery, OSINT, host enumeration, etc.). Up to now, this has been achieved with deterministic procedures that have shown some limitations. For instance, the process typically requires the generation of a candidate, which is subsequently checked for validity. While the validation is a straightforward procedure, the definition of an optimal candidate generation strategy is still an open problem. This paper presents a novel subdomain enumeration tool that allows the generation of high-quality sub-domain candidates. We employ a Generative Adversarial Network (GAN) to sample unseen candidates from the distribution of valid subdomain names. The model learns this distribution from publicly available datasets. Moreover, by sampling from the trained model, we address the limitations of traditional algorithms. Our experiments were carried out against 15 domains and a ground truth of 1164 other targets. The 15 domains were carefully selected from bug bounty platforms to avoid terms of use violations. Several factors influenced the choices, including the popularity, the expected number of subdomains, and the available services. Our experiments aim to validate our approach by testing the performance increase in subdomain enumeration processes against the state-of-the-art. We benchmark our proposal in terms of candidates&#39; validity and sample uniqueness. The results showed that, with our GAN, the performance of a traditional subdomain enumeration workflow increased by up to 61%. In addition, according to our ground truth experiments, the GAN was able to guess, on average, 32% of subdomains." />
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/" />
-
-  
-  
-  
-    <meta name="theme-color" content="#1565c0" />
-  
 
   
   
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
 
   
   
   
     
     
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -89,13 +79,6 @@
       
       
     
-    
-    
-
-    
-    
-    
-      
     
     
 
@@ -194,22 +177,6 @@
 
       
       
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
         
       
 
@@ -238,39 +205,13 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.f708997de6bf6d3fbc17fe5acf5258b1.css" />
-
   
-
-
-
-  
-
-
-  
-
-
-  
-
-
-
+  <link rel="stylesheet" href="/css/wowchemy.css" />
 
   
   
   
 
-  
-
-  
-    <link rel="manifest" href="/manifest.webmanifest" />
-  
-
-  <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
-
-  <link rel="canonical" href="https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/" />
-
-  
   
   
   
@@ -280,32 +221,110 @@
   
     
     
-  
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
   
 
   
   
-    
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
-  <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="UniTN Cybersecurity" />
-  <meta property="og:url" content="https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/" />
-  <meta property="og:title" content="Generative Adversarial Networks for Subdomain Enumeration | UniTN Cybersecurity" />
-  <meta property="og:description" content="Subdomain enumeration is a fundamental step of many security processes (i.e., vulnerability discovery, OSINT, host enumeration, etc.). Up to now, this has been achieved with deterministic procedures that have shown some limitations. For instance, the process typically requires the generation of a candidate, which is subsequently checked for validity. While the validation is a straightforward procedure, the definition of an optimal candidate generation strategy is still an open problem. This paper presents a novel subdomain enumeration tool that allows the generation of high-quality sub-domain candidates. We employ a Generative Adversarial Network (GAN) to sample unseen candidates from the distribution of valid subdomain names. The model learns this distribution from publicly available datasets. Moreover, by sampling from the trained model, we address the limitations of traditional algorithms. Our experiments were carried out against 15 domains and a ground truth of 1164 other targets. The 15 domains were carefully selected from bug bounty platforms to avoid terms of use violations. Several factors influenced the choices, including the popularity, the expected number of subdomains, and the available services. Our experiments aim to validate our approach by testing the performance increase in subdomain enumeration processes against the state-of-the-art. We benchmark our proposal in terms of candidates&#39; validity and sample uniqueness. The results showed that, with our GAN, the performance of a traditional subdomain enumeration workflow increased by up to 61%. In addition, according to our ground truth experiments, the GAN was able to guess, on average, 32% of subdomains." /><meta property="og:image" content="https://CybersecurityUnitn.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://CybersecurityUnitn.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
-    
-      <meta
-        property="article:published_time"
-        content="2022-05-13T12:56:18&#43;00:00"
-      />
-    
+
+
+
+
+
+
+  <meta name="author" content="Bruno Crispo" />
+
+
+
+
+
+  
+
+<meta name="description" content="Subdomain enumeration is a fundamental step of many security processes (i.e., vulnerability discovery, OSINT, host enumeration, etc.). Up to now, this has been achieved with deterministic procedures that have shown some limitations. For instance, the process typically requires the generation of a candidate, which is subsequently checked for validity. While the validation is a straightforward procedure, the definition of an optimal candidate generation strategy is still an open problem. This paper presents a novel subdomain enumeration tool that allows the generation of high-quality sub-domain candidates. We employ a Generative Adversarial Network (GAN) to sample unseen candidates from the distribution of valid subdomain names. The model learns this distribution from publicly available datasets. Moreover, by sampling from the trained model, we address the limitations of traditional algorithms. Our experiments were carried out against 15 domains and a ground truth of 1164 other targets. The 15 domains were carefully selected from bug bounty platforms to avoid terms of use violations. Several factors influenced the choices, including the popularity, the expected number of subdomains, and the available services. Our experiments aim to validate our approach by testing the performance increase in subdomain enumeration processes against the state-of-the-art. We benchmark our proposal in terms of candidates&#39; validity and sample uniqueness. The results showed that, with our GAN, the performance of a traditional subdomain enumeration workflow increased by up to 61%. In addition, according to our ground truth experiments, the GAN was able to guess, on average, 32% of subdomains." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/10-1145-3477314-3506967/" />
+<link rel="canonical" href="http://localhost:1313/publication/10-1145-3477314-3506967/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_347bd5247d6aecfb.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_c33710996f261d19.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="http://localhost:1313/media/icon_hu_cb8976e044fdb722.png" />
+<meta property="og:site_name" content="UniTN Cybersecurity" />
+<meta property="og:url" content="http://localhost:1313/publication/10-1145-3477314-3506967/" />
+<meta property="og:title" content="Generative Adversarial Networks for Subdomain Enumeration | UniTN Cybersecurity" />
+<meta property="og:description" content="Subdomain enumeration is a fundamental step of many security processes (i.e., vulnerability discovery, OSINT, host enumeration, etc.). Up to now, this has been achieved with deterministic procedures that have shown some limitations. For instance, the process typically requires the generation of a candidate, which is subsequently checked for validity. While the validation is a straightforward procedure, the definition of an optimal candidate generation strategy is still an open problem. This paper presents a novel subdomain enumeration tool that allows the generation of high-quality sub-domain candidates. We employ a Generative Adversarial Network (GAN) to sample unseen candidates from the distribution of valid subdomain names. The model learns this distribution from publicly available datasets. Moreover, by sampling from the trained model, we address the limitations of traditional algorithms. Our experiments were carried out against 15 domains and a ground truth of 1164 other targets. The 15 domains were carefully selected from bug bounty platforms to avoid terms of use violations. Several factors influenced the choices, including the popularity, the expected number of subdomains, and the available services. Our experiments aim to validate our approach by testing the performance increase in subdomain enumeration processes against the state-of-the-art. We benchmark our proposal in terms of candidates&#39; validity and sample uniqueness. The results showed that, with our GAN, the performance of a traditional subdomain enumeration workflow increased by up to 61%. In addition, according to our ground truth experiments, the GAN was able to guess, on average, 32% of subdomains." /><meta property="og:image" content="http://localhost:1313/media/icon_hu_cb8976e044fdb722.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2022-05-13T12:56:18&#43;00:00"
+    />
+  
+  
     <meta property="article:modified_time" content="2022-05-13T14:56:18&#43;02:00">
   
 
-  
+
+
+
 
 
     
@@ -324,7 +343,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/"
+    "@id": "http://localhost:1313/publication/10-1145-3477314-3506967/"
   },
   "headline": "Generative Adversarial Networks for Subdomain Enumeration",
   
@@ -341,7 +360,7 @@
     "name": "UniTN Cybersecurity",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://CybersecurityUnitn.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png"
+      "url": "http://localhost:1313/media/icon_hu_979df04a788a19f9.png"
     }
   },
   "description": "Subdomain enumeration is a fundamental step of many security processes (i.e., vulnerability discovery, OSINT, host enumeration, etc.). Up to now, this has been achieved with deterministic procedures that have shown some limitations. For instance, the process typically requires the generation of a candidate, which is subsequently checked for validity. While the validation is a straightforward procedure, the definition of an optimal candidate generation strategy is still an open problem. This paper presents a novel subdomain enumeration tool that allows the generation of high-quality sub-domain candidates. We employ a Generative Adversarial Network (GAN) to sample unseen candidates from the distribution of valid subdomain names. The model learns this distribution from publicly available datasets. Moreover, by sampling from the trained model, we address the limitations of traditional algorithms. Our experiments were carried out against 15 domains and a ground truth of 1164 other targets. The 15 domains were carefully selected from bug bounty platforms to avoid terms of use violations. Several factors influenced the choices, including the popularity, the expected number of subdomains, and the available services. Our experiments aim to validate our approach by testing the performance increase in subdomain enumeration processes against the state-of-the-art. We benchmark our proposal in terms of candidates' validity and sample uniqueness. The results showed that, with our GAN, the performance of a traditional subdomain enumeration workflow increased by up to 61%. In addition, according to our ground truth experiments, the GAN was able to guess, on average, 32% of subdomains."
@@ -352,15 +371,37 @@
 
   
 
+
+
+
+  
+  
+  
+
+  
   
 
   
 
 
-
-
-
+  
   <title>Generative Adversarial Networks for Subdomain Enumeration | UniTN Cybersecurity</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
 </head>
 
 
@@ -375,7 +416,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.c0f249cff63de9933c81a0eaa2877c29.js"></script>
+  <script src="/js/wowchemy-init.min.js"></script>
 
   
 
@@ -419,8 +460,12 @@
 
 
 
-  <div class="page-header">
-    
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
 
 
 
@@ -433,7 +478,7 @@
 
 
 
-<header class="header--fixed">
+<header>
   <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
     <div class="container-xl">
 
@@ -545,38 +590,17 @@
               
             
             
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/event"><span>Events</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
               
               
-            
+              
+                
+              
+              
             
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/post"><span>News</span></a>
+            <a class="nav-link " href="/#news"><span>News</span></a>
           </li>
 
           
@@ -625,6 +649,7 @@
           
         
 
+        
         
         
         <li class="nav-item">
@@ -677,6 +702,7 @@
 
 
 
+
   
 
   
@@ -700,7 +726,7 @@
   <div>
     
 
-  <span >
+  <span class="author-highlighted">
       <a href="/author/luca-degani/">Luca Degani</a></span>, <span >
       <a href="/author/francesco-bergadano/">Francesco Bergadano</a></span>, <span >
       <a href="/author/seyed-ali-mirheidari/">Seyed Ali Mirheidari</a></span>, <span >
@@ -850,13 +876,14 @@
 
 
 
+
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/subdomain-enumeration/">subdomain enumeration</a>
+  <a class="badge badge-light" href="/tag/subdomain-enumeration/">Subdomain Enumeration</a>
   
-  <a class="badge badge-light" href="/tag/subdomain-takeover/">subdomain takeover</a>
+  <a class="badge badge-light" href="/tag/subdomain-takeover/">Subdomain Takeover</a>
   
-  <a class="badge badge-light" href="/tag/generative-adversarial-networks/">generative adversarial networks</a>
+  <a class="badge badge-light" href="/tag/generative-adversarial-networks/">Generative Adversarial Networks</a>
   
 </div>
 
@@ -872,8 +899,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/&amp;text=Generative%20Adversarial%20Networks%20for%20Subdomain%20Enumeration" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F10-1145-3477314-3506967%2F&amp;text=Generative&#43;Adversarial&#43;Networks&#43;for&#43;Subdomain&#43;Enumeration" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -885,8 +916,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/&amp;t=Generative%20Adversarial%20Networks%20for%20Subdomain%20Enumeration" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F10-1145-3477314-3506967%2F&amp;t=Generative&#43;Adversarial&#43;Networks&#43;for&#43;Subdomain&#43;Enumeration" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -898,8 +933,14 @@
       
       
       
+      
+      
+      
+      
+        
+      
       <li>
-        <a href="mailto:?subject=Generative%20Adversarial%20Networks%20for%20Subdomain%20Enumeration&amp;body=https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Generative%20Adversarial%20Networks%20for%20Subdomain%20Enumeration&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F10-1145-3477314-3506967%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -911,8 +952,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/&amp;title=Generative%20Adversarial%20Networks%20for%20Subdomain%20Enumeration" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F10-1145-3477314-3506967%2F&amp;title=Generative&#43;Adversarial&#43;Networks&#43;for&#43;Subdomain&#43;Enumeration" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -924,8 +969,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="whatsapp://send?text=Generative%20Adversarial%20Networks%20for%20Subdomain%20Enumeration%20https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Generative&#43;Adversarial&#43;Networks&#43;for&#43;Subdomain&#43;Enumeration%20http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F10-1145-3477314-3506967%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -937,8 +986,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/&amp;title=Generative%20Adversarial%20Networks%20for%20Subdomain%20Enumeration" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2F10-1145-3477314-3506967%2F&amp;title=Generative&#43;Adversarial&#43;Networks&#43;for&#43;Subdomain&#43;Enumeration" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -970,7 +1023,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/luca-degani/"><img class="avatar mr-3 avatar-circle" src="/author/luca-degani/avatar_hu4b5e94818d45aea84047d75282836011_89654_270x270_fill_q75_lanczos_center.jpg" alt="Luca Degani"></a>
+      <a href="/author/luca-degani/"><img class="avatar mr-3 avatar-circle" src="/author/luca-degani/avatar_hu_fc85f00fac9c1284.jpg" alt="Luca Degani"></a>
     
 
     <div class="media-body">
@@ -1099,7 +1152,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/bruno-crispo/"><img class="avatar mr-3 avatar-circle" src="/author/bruno-crispo/avatar_huc963162910eb7f1ba159a562317d9aef_99354_270x270_fill_q75_lanczos_center.jpg" alt="Bruno Crispo"></a>
+      <a href="/author/bruno-crispo/"><img class="avatar mr-3 avatar-circle" src="/author/bruno-crispo/avatar_hu_c17332c0f93a1d59.jpg" alt="Bruno Crispo"></a>
     
 
     <div class="media-body">
@@ -1155,23 +1208,6 @@
       </a>
     </li>
   
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
 </ul>
 
     </div>
@@ -1209,14 +1245,27 @@
 
 
 
-  
+
+
+
+
+
+
+
+
 
   
-
+  
+  
+  
   
 
-  
-  
+
+
+
+
+
+
 
 
 
@@ -1239,7 +1288,7 @@
 
   
   <p class="powered-by copyright-license-text">
-    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2026 Us. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 
@@ -1255,6 +1304,7 @@
       
     </a>
   </p>
+
 
 
 
@@ -1278,105 +1328,114 @@
     
   </div>
 
-      
+  
 
-    
-    <script src="/js/vendor-bundle.min.92d2024afaa4dce0cad42ba360879ce9.js"></script>
 
-    
-    
-    
-      
+<script src="/js/vendor-bundle.min.js"></script>
 
-      
-      
 
-      
 
-      
 
-    
+  
 
-    
-    
-    
-      <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
-    
+  
+  
 
-    
-    
+  
 
-    
-    
-    
-      
-      <script id="search-hit-fuse-template" type="text/x-template">
-        <div class="search-hit" id="summary-{{key}}">
-          <div class="search-hit-content">
-            <div class="search-hit-name">
-              <a href="{{relpermalink}}">{{title}}</a>
-              <div class="article-metadata search-hit-type">{{type}}</div>
-              <p class="search-hit-description">{{snippet}}</p>
-            </div>
-          </div>
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
         </div>
-      </script>
-      
-        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
-      
-    
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
 
-    
-    
 
-    
-    
-    
-    
 
-    
-    
-      
-      
-      
-      
-      
-      
-      
-    
 
-    
 
-    
-    
-    
-    <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
-    
-    
-      <script src="/js/wowchemy-headroom.e8fd2d733eef6a8bbbe0539398fc0547.js" type="module"></script>
-    
-    
-    
-    
-    
-    
-    
-      
-      
-    
-    
-    <script src="/en/js/wowchemy.min.138e4fc03b1bc7a45d26646bd6024f76.js"></script>
 
-    
-    
-      <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
-    
-    
-    
-    
-      
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.js" type="module"></script>
+
+
+
+
+  
 <div id="modal" class="modal fade" role="dialog">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -1387,7 +1446,8 @@
         </button>
       </div>
       <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
+        
+        <pre><code></code></pre>
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
@@ -1402,7 +1462,20 @@
   </div>
 </div>
 
-      <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+  <script src="/js/wowchemy-publication.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

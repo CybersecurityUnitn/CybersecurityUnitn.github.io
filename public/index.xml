@@ -2,77 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UniTN Cybersecurity</title>
-    <link>https://CybersecurityUnitn.github.io/</link>
-      <atom:link href="https://CybersecurityUnitn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>UniTN Cybersecurity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://CybersecurityUnitn.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_cb8976e044fdb722.png</url>
       <title>UniTN Cybersecurity</title>
-      <link>https://CybersecurityUnitn.github.io/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
-      <title>PISTIS: Trusted Computing Architecture for Low-end Embedded Systems</title>
-      <link>https://CybersecurityUnitn.github.io/publication/277124/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://CybersecurityUnitn.github.io/publication/277124/</guid>
+      <title>Mitigating Code Injection Attacks on Modern GPUs</title>
+      <link>http://localhost:1313/publication/gpu-code-injection/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gpu-code-injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N00B: Bounds Checking for the Masses</title>
+      <link>http://localhost:1313/publication/n00b/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/n00b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAGShield: Persistent Tagging for Robust Stack Memory Error Protection</title>
+      <link>http://localhost:1313/publication/tagshield/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tagshield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OAuth 2.0 Redirect URI Validation Falls Short Literally</title>
+      <link>http://localhost:1313/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</link>
+      <pubDate>Tue, 19 Sep 2023 10:41:53 +0200</pubDate>
+      <guid>http://localhost:1313/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Nonce-nce of Web Security: An Investigation of CSP Nonces Reuse</title>
+      <link>http://localhost:1313/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</link>
+      <pubDate>Thu, 24 Aug 2023 11:58:46 +0200</pubDate>
+      <guid>http://localhost:1313/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the CORS</title>
+      <link>http://localhost:1313/publication/mind-the-cors/</link>
+      <pubDate>Thu, 24 Aug 2023 11:49:29 +0200</pubDate>
+      <guid>http://localhost:1313/publication/mind-the-cors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Cache Deception Escalates!</title>
-      <link>https://CybersecurityUnitn.github.io/publication/277152/</link>
+      <link>http://localhost:1313/publication/wcde/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wcde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PISTIS: Trusted Computing Architecture for Low-end Embedded Systems</title>
+      <link>http://localhost:1313/publication/277124/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://CybersecurityUnitn.github.io/publication/277152/</guid>
+      <guid>http://localhost:1313/publication/277124/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discovery and Identification of Memory Corruption Vulnerabilities on Bare-metal Embedded Devices</title>
-      <link>https://CybersecurityUnitn.github.io/publication/9707846/</link>
+      <link>http://localhost:1313/publication/9707846/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://CybersecurityUnitn.github.io/publication/9707846/</guid>
+      <guid>http://localhost:1313/publication/9707846/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generative Adversarial Networks for Subdomain Enumeration</title>
-      <link>https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/</link>
+      <link>http://localhost:1313/publication/10-1145-3477314-3506967/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://CybersecurityUnitn.github.io/publication/10-1145-3477314-3506967/</guid>
+      <guid>http://localhost:1313/publication/10-1145-3477314-3506967/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://CybersecurityUnitn.github.io/admin/config.yml</link>
+      <link>http://localhost:1313/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://CybersecurityUnitn.github.io/admin/config.yml</guid>
+      <guid>http://localhost:1313/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://CybersecurityUnitn.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://CybersecurityUnitn.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://CybersecurityUnitn.github.io/people/</link>
+      <link>http://localhost:1313/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://CybersecurityUnitn.github.io/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tour</title>
-      <link>https://CybersecurityUnitn.github.io/tour/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://CybersecurityUnitn.github.io/tour/</guid>
+      <guid>http://localhost:1313/people/</guid>
       <description></description>
     </item>
     

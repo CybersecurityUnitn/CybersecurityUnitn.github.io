@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amel Benabdallah | UniTN Cybersecurity</title>
+    <link>http://localhost:1313/author/amel-benabdallah/</link>
+      <atom:link href="http://localhost:1313/author/amel-benabdallah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amel Benabdallah</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_cb8976e044fdb722.png</url>
+      <title>Amel Benabdallah</title>
+      <link>http://localhost:1313/author/amel-benabdallah/</link>
+    </image>
+    
+    <item>
+      <title>Amel Benabdallah</title>
+      <link>http://localhost:1313/author/amel-benabdallah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/amel-benabdallah/</guid>
+      <description>&lt;p&gt;Amel Benabdallah is a PhD student at the University of Trento.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

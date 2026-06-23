@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adriaan Jacobs | UniTN Cybersecurity</title>
+    <link>http://localhost:1313/author/adriaan-jacobs/</link>
+      <atom:link href="http://localhost:1313/author/adriaan-jacobs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adriaan Jacobs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_cb8976e044fdb722.png</url>
+      <title>Adriaan Jacobs</title>
+      <link>http://localhost:1313/author/adriaan-jacobs/</link>
+    </image>
+    
+    <item>
+      <title>Mitigating Code Injection Attacks on Modern GPUs</title>
+      <link>http://localhost:1313/publication/gpu-code-injection/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gpu-code-injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N00B: Bounds Checking for the Masses</title>
+      <link>http://localhost:1313/publication/n00b/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/n00b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

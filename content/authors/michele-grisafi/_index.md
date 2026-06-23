@@ -26,8 +26,8 @@ education:
       institution: Name of Institution
       year: 2012
 user_groups:
-  - PhD Students
-highlight_name: false
+  - Alumni
+highlight_name: true
 title: Michele Grisafi
 email: ""
 ---

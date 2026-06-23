@@ -1,0 +1,60 @@
+{{/* Table Shortcode for Wowchemy.
+
+  Local override for newer Hugo versions where data.GetCSV/getCSV has been
+  removed. Keep the public parameters compatible with Wowchemy's shortcode.
+*/}}
+
+{{ $src := .Get "path" }}
+{{ $delimiter := .Get "delimiter" | default "," }}
+{{ $useHeaderRow := true }}
+{{ with .Get "header" }}
+  {{ $useHeaderRow = eq (lower .) "true" }}
+{{ end }}
+{{ $caption := .Get "caption" }}
+{{ $rows := slice }}
+{{ $opts := dict "delimiter" $delimiter }}
+
+{{ if not $src }}
+  {{ errorf "The table shortcode on %q requires a path parameter." .Page.File.Path }}
+{{ end }}
+
+{{ if strings.HasPrefix $src "http" }}
+  {{ with try (resources.GetRemote $src) }}
+    {{ with .Err }}
+      {{ errorf "%s" . }}
+    {{ else with .Value }}
+      {{ $rows = transform.Unmarshal $opts . }}
+    {{ else }}
+      {{ errorf "Unable to get remote CSV resource %q" $src }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ with .Page.Resources.Get $src }}
+    {{ $rows = transform.Unmarshal $opts . }}
+  {{ else }}
+    {{ $path := path.Join "content" $.Page.File.Dir $src }}
+    {{ $rows = transform.Unmarshal $opts (os.ReadFile $path) }}
+  {{ end }}
+{{ end }}
+
+<table class="table">
+  {{ if and $useHeaderRow $rows }}
+    {{ $headerRow := index $rows 0 }}
+    {{ $rows = after 1 $rows }}
+    <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+  {{ end }}
+  {{ range $rows }}
+    <tr>
+      {{ range . }}
+        {{ if (findRE "^\\d+$" .) }}
+          <td data-table-dtype="number">{{ . }}</td>
+        {{ else }}
+          <td data-table-dtype="text">{{ . | markdownify | emojify }}</td>
+        {{ end }}
+      {{ end }}
+    </tr>
+  {{ end }}
+  {{ with $caption }}
+    <caption>{{ . | markdownify | emojify }}</caption>
+  {{ end }}
+</table>

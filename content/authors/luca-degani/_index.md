@@ -66,12 +66,11 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 Luca Degani is a PhD student in Computer Science at the University of Trento, Italy, where he is working on IoT systems security. He received his master’s degree with a thesis on evaluation metrics of bare-metal IoT firmware fuzzing. Other research interests include vulnerability detection and software testing.
-

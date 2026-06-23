@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luigi Dell&#39;Eva | UniTN Cybersecurity</title>
+    <link>http://localhost:1313/author/luigi-delleva/</link>
+      <atom:link href="http://localhost:1313/author/luigi-delleva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luigi Dell&#39;Eva</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_cb8976e044fdb722.png</url>
+      <title>Luigi Dell&#39;Eva</title>
+      <link>http://localhost:1313/author/luigi-delleva/</link>
+    </image>
+    
+    <item>
+      <title>Luigi Dell&#39;Eva</title>
+      <link>http://localhost:1313/author/luigi-delleva/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/luigi-delleva/</guid>
+      <description>&lt;p&gt;Luigi Dell&amp;rsquo;Eva is a junior researcher at the University of Trento.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mitigating Code Injection Attacks on Modern GPUs</title>
+      <link>http://localhost:1313/publication/gpu-code-injection/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gpu-code-injection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

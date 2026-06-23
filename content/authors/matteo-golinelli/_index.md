@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: CyberSecurity PhD Student @ University of Trento
+role: Senior Researcher @ University of Trento
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Post-doctoral Researchers
 ---
 
 Matteo Golinelli is a PhD student in cybersecurity at the University of Trento, Italy. He is mainly interested in web security, with a special focus on web caches and complex interactions between different HTTP entities. He is currently researching advanced web exploitation techniques.

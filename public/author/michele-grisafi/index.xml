@@ -2,21 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michele Grisafi | UniTN Cybersecurity</title>
-    <link>https://CybersecurityUnitn.github.io/author/michele-grisafi/</link>
-      <atom:link href="https://CybersecurityUnitn.github.io/author/michele-grisafi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/michele-grisafi/</link>
+      <atom:link href="http://localhost:1313/author/michele-grisafi/index.xml" rel="self" type="application/rss+xml" />
     <description>Michele Grisafi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://CybersecurityUnitn.github.io/author/michele-grisafi/avatar_hu95c23b8af800065a8343ecd4b7d3022a_79709_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/michele-grisafi/avatar_hu_ddc1fc2d4c78acca.jpg</url>
       <title>Michele Grisafi</title>
-      <link>https://CybersecurityUnitn.github.io/author/michele-grisafi/</link>
+      <link>http://localhost:1313/author/michele-grisafi/</link>
     </image>
     
     <item>
+      <title>Michele Grisafi</title>
+      <link>http://localhost:1313/author/michele-grisafi/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/michele-grisafi/</guid>
+      <description>&lt;p&gt;Michele Grisafi is a PhD student at the University of Trento. He is interested in cyber security and pizza. He works on a project called &amp;ldquo;IoT Security&amp;rdquo; which is a tool to analyze the security of IoT devices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TAGShield: Persistent Tagging for Robust Stack Memory Error Protection</title>
+      <link>http://localhost:1313/publication/tagshield/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tagshield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PISTIS: Trusted Computing Architecture for Low-end Embedded Systems</title>
-      <link>https://CybersecurityUnitn.github.io/publication/277124/</link>
+      <link>http://localhost:1313/publication/277124/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://CybersecurityUnitn.github.io/publication/277124/</guid>
+      <guid>http://localhost:1313/publication/277124/</guid>
       <description></description>
     </item>
     

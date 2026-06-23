@@ -2,21 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matteo Golinelli | UniTN Cybersecurity</title>
-    <link>https://CybersecurityUnitn.github.io/author/matteo-golinelli/</link>
-      <atom:link href="https://CybersecurityUnitn.github.io/author/matteo-golinelli/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/matteo-golinelli/</link>
+      <atom:link href="http://localhost:1313/author/matteo-golinelli/index.xml" rel="self" type="application/rss+xml" />
     <description>Matteo Golinelli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Sep 2023 10:41:53 +0200</lastBuildDate>
     <image>
-      <url>https://CybersecurityUnitn.github.io/author/matteo-golinelli/avatar_hu0309028ee38bb1b83ce46d5a6f4f122b_20724_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/matteo-golinelli/avatar_hu_d0f9e2c6b9b775d0.png</url>
       <title>Matteo Golinelli</title>
-      <link>https://CybersecurityUnitn.github.io/author/matteo-golinelli/</link>
+      <link>http://localhost:1313/author/matteo-golinelli/</link>
     </image>
     
     <item>
+      <title>Matteo Golinelli</title>
+      <link>http://localhost:1313/author/matteo-golinelli/</link>
+      <pubDate>Tue, 19 Sep 2023 10:41:53 +0200</pubDate>
+      <guid>http://localhost:1313/author/matteo-golinelli/</guid>
+      <description>&lt;p&gt;Matteo Golinelli is a PhD student in cybersecurity at the University of Trento, Italy. He is mainly interested in web security, with a special focus on web caches and complex interactions between different HTTP entities. He is currently researching advanced web exploitation techniques.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OAuth 2.0 Redirect URI Validation Falls Short Literally</title>
+      <link>http://localhost:1313/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</link>
+      <pubDate>Tue, 19 Sep 2023 10:41:53 +0200</pubDate>
+      <guid>http://localhost:1313/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Nonce-nce of Web Security: An Investigation of CSP Nonces Reuse</title>
+      <link>http://localhost:1313/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</link>
+      <pubDate>Thu, 24 Aug 2023 11:58:46 +0200</pubDate>
+      <guid>http://localhost:1313/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the CORS</title>
+      <link>http://localhost:1313/publication/mind-the-cors/</link>
+      <pubDate>Thu, 24 Aug 2023 11:49:29 +0200</pubDate>
+      <guid>http://localhost:1313/publication/mind-the-cors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Web Cache Deception Escalates!</title>
-      <link>https://CybersecurityUnitn.github.io/publication/277152/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://CybersecurityUnitn.github.io/publication/277152/</guid>
+      <link>http://localhost:1313/publication/wcde/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wcde/</guid>
       <description></description>
     </item>
     
