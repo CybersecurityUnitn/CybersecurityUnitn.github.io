@@ -5,26 +5,21 @@ organizations:
 superuser: false
 authors:
   - michele-grisafi
-role: CyberSecurity PhD Student @ University of Trento
+role: Former PhD Student @ University of Trento
 bio: null
-interests:
-  - Interest 1
-  - Interest 2
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=PERSON-ID
-  - icon: github
+    link: https://scholar.google.com/citations?user=2stumisAAAAJ
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/USERNAME
+    link: https://www.linkedin.com/in/michele-grisafi-5ab360120/
 education:
   courses:
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
+    - course: PhD in CyberSecurity
+      institution: University of Trento
+      year: 2020-2025
+
 user_groups:
   - Alumni
 highlight_name: true
@@ -32,4 +27,4 @@ title: Michele Grisafi
 email: ""
 ---
 
-Michele Grisafi is a PhD student at the University of Trento. He is interested in cyber security and pizza. He works on a project called "IoT Security" which is a tool to analyze the security of IoT devices.
+Michele Grisafi obtained his PhD in Cybersecurity from the University of Trento, Italy. He is now working as a Senior Security Engineer at Qualcomm.

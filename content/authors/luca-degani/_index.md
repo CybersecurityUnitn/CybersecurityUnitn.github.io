@@ -25,9 +25,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in CyberSecurity
-    institution: University of Trento
-    year: 2020-
   - course: Master in CyberSecurity
     institution: University of Trento
     year: 2020
@@ -43,9 +40,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:luca.degani@unitn.it'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/deganiluca
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=en7MeVIAAAAJ&hl=en
@@ -73,4 +67,4 @@ highlight_name: true
 user_groups:
   - Alumni
 ---
-Luca Degani is a PhD student in Computer Science at the University of Trento, Italy, where he is working on IoT systems security. He received his master’s degree with a thesis on evaluation metrics of bare-metal IoT firmware fuzzing. Other research interests include vulnerability detection and software testing.
+Luca Degani was a PhD student in Computer Science at the University of Trento, Italy. He received his master’s degree with a thesis on evaluation metrics of bare-metal IoT firmware fuzzing. Other research interests include vulnerability detection and software testing.
