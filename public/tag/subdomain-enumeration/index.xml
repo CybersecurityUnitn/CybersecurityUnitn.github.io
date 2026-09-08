@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Subdomain Enumeration | UniTN Cybersecurity</title>
-    <link>http://localhost:1313/tag/subdomain-enumeration/</link>
-      <atom:link href="http://localhost:1313/tag/subdomain-enumeration/index.xml" rel="self" type="application/rss+xml" />
-    <description>Subdomain Enumeration</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_cb8976e044fdb722.png</url>
-      <title>Subdomain Enumeration</title>
-      <link>http://localhost:1313/tag/subdomain-enumeration/</link>
-    </image>
-    
-    <item>
-      <title>Generative Adversarial Networks for Subdomain Enumeration</title>
-      <link>http://localhost:1313/publication/10-1145-3477314-3506967/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/10-1145-3477314-3506967/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Subdomain Enumeration on UniTN Cybersecurity</title>
+		<link>http://localhost:1313/tag/subdomain-enumeration/</link>
+		<description>Recent content in Subdomain Enumeration on UniTN Cybersecurity</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 May 2022 14:56:18 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tag/subdomain-enumeration/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Generative Adversarial Networks for Subdomain Enumeration</title>
+				<link>http://localhost:1313/publication/10-1145-3477314-3506967/</link>
+				<pubDate>Fri, 13 May 2022 12:56:18 +0000</pubDate>
+				<guid>http://localhost:1313/publication/10-1145-3477314-3506967/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

@@ -12,7 +12,7 @@ publishDate: 2023-08-24T11:58:46+02:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "Workshop on Attacks and Software Protection at ESORICS 2023"
@@ -29,18 +29,19 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+
+links:
+- name: arXiv
+  url: http://arxiv.org/abs/2309.07782
+- name: On Springer (paid access)
+  url: https://doi.org/10.1007/978-3-031-54129-2_27
 
 url_pdf:
 url_code: "https://github.com/Golim/nonce-nce"
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: 'The Nonce-nce of Web Security WASP 23.pdf'
 url_source:
 url_video:
 

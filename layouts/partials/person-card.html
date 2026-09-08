@@ -1,0 +1,1 @@
+<article class="person-card">{{ with .Resources.GetMatch "avatar.*" }}<img src="{{ .RelPermalink }}" alt="Portrait of {{ $.Title }}">{{ else }}<div class="portrait-placeholder" aria-hidden="true">{{ substr .Title 0 1 }}</div>{{ end }}<div><h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>{{ with .Params.role }}<p>{{ . }}</p>{{ end }}</div></article>

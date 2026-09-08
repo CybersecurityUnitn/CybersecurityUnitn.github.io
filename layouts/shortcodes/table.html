@@ -1,8 +1,4 @@
-{{/* Table Shortcode for Wowchemy.
-
-  Local override for newer Hugo versions where data.GetCSV/getCSV has been
-  removed. Keep the public parameters compatible with Wowchemy's shortcode.
-*/}}
+{{/* CSV table shortcode. */}}
 
 {{ $src := .Get "path" }}
 {{ $delimiter := .Get "delimiter" | default "," }}

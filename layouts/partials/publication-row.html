@@ -1,0 +1,1 @@
+<article class="publication-row"><p class="publication-year">{{ .Date.Format "2006" }}</p><div><h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>{{ partial "authors.html" . }}{{ with .Params.publication }}<p class="venue">{{ . | markdownify }}</p>{{ end }}{{ partial "publication-links.html" . }}</div></article>

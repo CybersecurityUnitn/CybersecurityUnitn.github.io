@@ -1,0 +1,1 @@
+{{ define "main" }}<div class="page-head shell"><p class="eyebrow">Research output</p><h1>{{ .Title }}</h1></div><section class="shell publication-list full-list">{{ range .RegularPages.ByDate.Reverse }}{{ partial "publication-row.html" . }}{{ end }}</section>{{ end }}

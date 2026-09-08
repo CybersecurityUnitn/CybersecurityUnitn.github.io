@@ -15,7 +15,8 @@ social:
     link: https://scholar.google.co.uk/citations?user=
 organizations:
   - name: University of Trento
-    url: http://disi.unitn.it/~crispo/
+    url: https://www.unitn.it/
+website: http://disi.unitn.it/~crispo/
 education:
   courses:
     - course: PhD in Computer Science
@@ -30,7 +31,6 @@ education:
 superuser: true
 user_groups:
   - Professor
-  - Researchers
 highlight_name: true
 title: Bruno Crispo
 email: ""

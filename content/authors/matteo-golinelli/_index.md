@@ -9,15 +9,16 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Researcher @ University of Trento
+role: Researcher @ University of Trento
 
 # Organizations/Affiliations
 organizations:
   - name: University of Trento
-    url: 'https://golim.github.io/'
+    url: 'https://www.unitn.it/'
+website: 'https://golim.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in cybersecurity, mainly interested in web security, with a special focus on web caches.
+bio: Cybersecurity researcher, mainly interested in web security, with a special focus on web caches and CDNs.
 
 interests:
 - Web security
@@ -28,7 +29,7 @@ education:
   courses:
   - course: PhD in CyberSecurity
     institution: University of Trento
-    year: 2021-
+    year: 2021-2026
   - course: Master in CyberSecurity
     institution: University of Trento
     year: 2021
@@ -76,4 +77,4 @@ user_groups:
   - Post-doctoral Researchers
 ---
 
-Matteo Golinelli is a PhD student in cybersecurity at the University of Trento, Italy. He is mainly interested in web security, with a special focus on web caches and complex interactions between different HTTP entities. He is currently researching advanced web exploitation techniques.
+Matteo Golinelli is a cybersecurity researcher at the University of Trento, Italy. He is mainly interested in web security, with a special focus on web caches, CDNs, and complex interactions between different HTTP entities.

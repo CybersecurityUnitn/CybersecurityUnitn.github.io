@@ -1,41 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Luca Degani | UniTN Cybersecurity</title>
-    <link>http://localhost:1313/author/luca-degani/</link>
-      <atom:link href="http://localhost:1313/author/luca-degani/index.xml" rel="self" type="application/rss+xml" />
-    <description>Luca Degani</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/author/luca-degani/avatar_hu_fc85f00fac9c1284.jpg</url>
-      <title>Luca Degani</title>
-      <link>http://localhost:1313/author/luca-degani/</link>
-    </image>
-    
-    <item>
-      <title>Discovery and Identification of Memory Corruption Vulnerabilities on Bare-metal Embedded Devices</title>
-      <link>http://localhost:1313/publication/9707846/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/9707846/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generative Adversarial Networks for Subdomain Enumeration</title>
-      <link>http://localhost:1313/publication/10-1145-3477314-3506967/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/10-1145-3477314-3506967/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Luca Degani</title>
-      <link>http://localhost:1313/author/luca-degani/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/luca-degani/</guid>
-      <description>&lt;p&gt;Luca Degani is a PhD student in Computer Science at the University of Trento, Italy, where he is working on IoT systems security. He received his master’s degree with a thesis on evaluation metrics of bare-metal IoT firmware fuzzing. Other research interests include vulnerability detection and software testing.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Luca Degani on UniTN Cybersecurity</title>
+		<link>http://localhost:1313/author/luca-degani/</link>
+		<description>Recent content in Luca Degani on UniTN Cybersecurity</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 May 2022 15:00:02 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/author/luca-degani/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Discovery and Identification of Memory Corruption Vulnerabilities on Bare-metal Embedded Devices</title>
+				<link>http://localhost:1313/publication/9707846/</link>
+				<pubDate>Fri, 13 May 2022 13:00:02 +0000</pubDate>
+				<guid>http://localhost:1313/publication/9707846/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Generative Adversarial Networks for Subdomain Enumeration</title>
+				<link>http://localhost:1313/publication/10-1145-3477314-3506967/</link>
+				<pubDate>Fri, 13 May 2022 12:56:18 +0000</pubDate>
+				<guid>http://localhost:1313/publication/10-1145-3477314-3506967/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Luca Degani</title>
+				<link>http://localhost:1313/author/luca-degani/</link>
+				<pubDate>Fri, 13 May 2022 13:00:02 +0000</pubDate>
+				<guid>http://localhost:1313/author/luca-degani/</guid>
+				<description>&lt;p&gt;Luca Degani is a PhD student in Computer Science at the University of Trento, Italy, where he is working on IoT systems security. He received his master’s degree with a thesis on evaluation metrics of bare-metal IoT firmware fuzzing. Other research interests include vulnerability detection and software testing.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

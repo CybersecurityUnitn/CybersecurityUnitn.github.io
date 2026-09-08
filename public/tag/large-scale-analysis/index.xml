@@ -1,32 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Large-Scale Analysis | UniTN Cybersecurity</title>
-    <link>http://localhost:1313/tag/large-scale-analysis/</link>
-      <atom:link href="http://localhost:1313/tag/large-scale-analysis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Large-Scale Analysis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Sep 2023 10:41:53 +0200</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_cb8976e044fdb722.png</url>
-      <title>Large-Scale Analysis</title>
-      <link>http://localhost:1313/tag/large-scale-analysis/</link>
-    </image>
-    
-    <item>
-      <title>OAuth 2.0 Redirect URI Validation Falls Short Literally</title>
-      <link>http://localhost:1313/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</link>
-      <pubDate>Tue, 19 Sep 2023 10:41:53 +0200</pubDate>
-      <guid>http://localhost:1313/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Nonce-nce of Web Security: An Investigation of CSP Nonces Reuse</title>
-      <link>http://localhost:1313/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</link>
-      <pubDate>Thu, 24 Aug 2023 11:58:46 +0200</pubDate>
-      <guid>http://localhost:1313/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Large-Scale Analysis on UniTN Cybersecurity</title>
+		<link>http://localhost:1313/tag/large-scale-analysis/</link>
+		<description>Recent content in Large-Scale Analysis on UniTN Cybersecurity</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 05 Aug 2026 11:18:04 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tag/large-scale-analysis/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Web Cache Overflow: Exploiting Imprecise Keys for Cache Degradation and Beyond</title>
+				<link>http://localhost:1313/publication/web-cache-overflow-exploiting-imprecise-keys-for-cache-degradation-and-beyond/</link>
+				<pubDate>Wed, 05 Aug 2026 11:18:04 +0200</pubDate>
+				<guid>http://localhost:1313/publication/web-cache-overflow-exploiting-imprecise-keys-for-cache-degradation-and-beyond/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hidden Web Caches Discovery</title>
+				<link>http://localhost:1313/publication/hidden-web-caches-discovery/</link>
+				<pubDate>Tue, 23 Jul 2024 11:18:04 +0200</pubDate>
+				<guid>http://localhost:1313/publication/hidden-web-caches-discovery/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>OAuth 2.0 Redirect URI Validation Falls Short Literally</title>
+				<link>http://localhost:1313/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</link>
+				<pubDate>Tue, 19 Sep 2023 10:41:53 +0200</pubDate>
+				<guid>http://localhost:1313/publication/oauth-2.0-redirect-uri-validation-falls-short-literally/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Nonce-nce of Web Security: An Investigation of CSP Nonces Reuse</title>
+				<link>http://localhost:1313/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</link>
+				<pubDate>Thu, 24 Aug 2023 11:58:46 +0200</pubDate>
+				<guid>http://localhost:1313/publication/the-nonce-nce-of-web-security-an-investigation-of-csp-nonces-reuse/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

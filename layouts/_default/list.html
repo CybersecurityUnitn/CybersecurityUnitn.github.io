@@ -1,0 +1,1 @@
+{{ define "main" }}<div class="page-head shell"><p class="eyebrow">{{ .Section }}</p><h1>{{ .Title }}</h1></div><section class="shell prose">{{ .Content }}{{ range .RegularPages }}<article class="simple-list-item"><h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2><p>{{ .Summary }}</p></article>{{ end }}</section>{{ end }}
