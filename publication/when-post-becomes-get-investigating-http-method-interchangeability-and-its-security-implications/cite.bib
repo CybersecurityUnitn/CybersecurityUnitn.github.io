@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3678890.3678931,
+    author = {Golinelli, Matteo and Crispo, Bruno},
+    title = {Hidden Web Caches Discovery},
+    year = {2024},
+    isbn = {9798400709593},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3678890.3678931},
+    doi = {10.1145/3678890.3678931},
+    abstract = {Web caches play a crucial role in web performance and scalability. However, detecting cached responses is challenging when web servers do not reliably communicate the cache status through standardized headers. This paper presents a novel methodology for cache detection using timing analysis. Our approach eliminates the dependency on cache status headers, making it applicable to any web server. The methodology relies on sending paired requests using HTTP multiplexing functionality and makes heavy use of cache-busting to control the origin of the responses. By measuring the time it takes to receive responses from paired requests, we can determine if a response is cached or not. In each pair, one request is cache-busted to force retrieval from the origin server, while the other request is not and might be served from the cache, if present. A faster response time for the non-cache-busted request compared to the cache-busted one suggests the first one is coming from the cache. We implemented this approach in a tool and achieved an estimated accuracy of 89.6\% compared to state-of-the-art methods based on cache status headers. Leveraging our cache detection approach, we conducted a large-scale experiment on the Tranco Top 50k websites. We identified a significant presence of hidden caches (5.8\%) that do not advertise themselves through headers. Additionally, we employed our methodology to detect Web Cache Deception (WCD) vulnerabilities in these hidden caches. We discovered that 1.020 of them are susceptible to WCD vulnerabilities, potentially leaking sensitive data. Our findings demonstrate the effectiveness of our timing analysis methodology for cache discovery and highlight the importance of a tool that does not rely on cache-communicated cache status headers.},
+    booktitle = {The 27th International Symposium on Research in Attacks, Intrusions and Defenses},
+    pages = {65–76},
+    numpages = {12},
+    keywords = {hidden web cache, timing analysis, web cache},
+    location = {Padua, Italy},
+    series = {RAID '24}
+}
