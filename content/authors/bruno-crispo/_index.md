@@ -4,30 +4,13 @@ bio: Bio TODO.
 interests:
   - TODO
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=
+    link: https://scholar.google.com/citations?user=QHQUuuYAAAAJ&hl=it
 organizations:
   - name: University of Trento
     url: https://www.unitn.it/
 website: http://disi.unitn.it/~crispo/
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: TODO
-      year: 2012
-    - course: Master in todo
-      institution: where
-      year: 2009
-    - course: BSc in TODO
-      institution: where
-      year: 2008
 superuser: true
 user_groups:
   - Professor
@@ -35,4 +18,4 @@ highlight_name: true
 title: Bruno Crispo
 email: ""
 ---
-Bruno Crispo is a professor at the University of Trento.
+Bruno Crispo is a full professor at the University of Trento.
