@@ -2,6 +2,9 @@
 title: eCTF
 level: Security competition
 programme: University of Trento
+professor:
+  name: Bruno Crispo
+  profile: /author/bruno-crispo/
 staff_label: Managed by
 staff:
   - name: Luigi Dell'Eva

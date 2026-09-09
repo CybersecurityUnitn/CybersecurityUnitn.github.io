@@ -2,6 +2,9 @@
 title: CyberChallenge.IT
 level: Student training programme
 programme: University of Trento
+professor:
+  name: Bruno Crispo
+  profile: /author/bruno-crispo/
 staff_label: Managed by
 staff:
   - name: Matteo Golinelli

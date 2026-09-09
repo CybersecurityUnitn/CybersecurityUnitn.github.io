@@ -2,6 +2,9 @@
 title: Ethical Hacking
 level: Master's course
 programme: University of Trento
+professor:
+  name: Bruno Crispo
+  profile: /author/bruno-crispo/
 staff_label: Teaching assistants
 staff:
   - name: Matteo Golinelli

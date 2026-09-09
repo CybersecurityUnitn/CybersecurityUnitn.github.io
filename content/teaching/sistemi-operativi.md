@@ -2,6 +2,9 @@
 title: Sistemi Operativi
 level: Bachelor's course
 programme: Computer Science, University of Trento
+professor:
+  name: Bruno Crispo
+  profile: /author/bruno-crispo/
 staff_label: Teaching assistant
 staff:
   - name: Luigi Dell'Eva

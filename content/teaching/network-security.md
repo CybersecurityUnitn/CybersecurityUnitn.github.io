@@ -2,6 +2,9 @@
 title: Network Security
 level: Master's course
 programme: University of Trento
+professor:
+  name: Bruno Crispo
+  profile: /author/bruno-crispo/
 staff_label: Teaching assistant
 staff:
   - name: Amel Benabdallah
