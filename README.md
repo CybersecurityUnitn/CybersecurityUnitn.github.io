@@ -1,7 +1,6 @@
 # UniTN Cybersecurity Research Group
 
-This is a standalone Hugo site. It has no theme module, page builder, CMS plugin,
-or Wowchemy/Hugo Blox dependency.
+This is a standalone Hugo site.
 
 ## Local development
 
