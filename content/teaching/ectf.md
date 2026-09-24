@@ -14,6 +14,8 @@ links:
     url: https://ectf.mitre.org/
   - name: Past competitions and results
     url: https://ectf.mitre.org/past-competitions/
+  - name: What is eCTF? (presentation)
+    url: /uploads/what-is-ectf.pdf
 weight: 50
 ---
 
