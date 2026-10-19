@@ -4,8 +4,6 @@ subtitle:
 widget: blank
 headless: true
 weight: 45
-design:
-  columns: '1'
+label: Our team
+url: /people/
 ---
-
-[Our Team →](../people/)

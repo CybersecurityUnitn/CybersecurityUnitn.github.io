@@ -1,4 +1,4 @@
-# UniTN Cybersecurity Research Group
+# UniTN Agent and System Security Research Group
 
 This is a standalone Hugo site.
 

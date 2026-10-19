@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  UniTN Cybersecurity Research Group
+  UniTN Agent and System Security Research Group
 # hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -28,6 +28,6 @@ cta_alt:
 
 ---
 
-We are a cybersecurity research group at the University of Trento, Italy. Our research interests include IoT security and web security.
+We are a cybersecurity research group at the University of Trento, Italy. Our research interests include IoT, system, agents, and web security.
 
 <br>

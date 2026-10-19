@@ -5,6 +5,8 @@ headless: true'
 weight: 20
 
 title: Publications
+eyebrow: Selected work
+all_label: All publications
 subtitle:
 
 content:
