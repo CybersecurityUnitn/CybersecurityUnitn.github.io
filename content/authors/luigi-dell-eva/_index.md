@@ -12,8 +12,6 @@ interests:
 organizations:
   - name: University of Trento
     url: https://www.unitn.it/
-education:
-  courses: []
 social:
   - icon: envelope
     icon_pack: fas
